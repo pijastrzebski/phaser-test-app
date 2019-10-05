@@ -1,0 +1,4 @@
+
+[submodule "defs/libs/phaser"]
+	path = defs/libs/phaser
+	url = git@github.com:photonstorm/phaser.git
